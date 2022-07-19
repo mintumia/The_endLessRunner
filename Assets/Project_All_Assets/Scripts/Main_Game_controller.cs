@@ -15,4 +15,16 @@ public class Main_Game_controller : MonoBehaviour
     {
         
     }
+
+
+    public int AbseluteAngle()
+    {
+
+        //Need to Work on it
+
+        return 0;
+
+    }
+
+
 }
